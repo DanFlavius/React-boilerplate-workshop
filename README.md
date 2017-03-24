@@ -1,4 +1,4 @@
-```
+
 ## Make sure you have **Node.js**  and **npm** installed.
 
 Download the node.js installer from [Node.js](https://nodejs.org/en/). 
@@ -13,4 +13,4 @@ npm start
 
 npm run build
 
-```
+
