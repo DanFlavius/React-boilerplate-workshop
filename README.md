@@ -1,3 +1,8 @@
-# React-boilerplate-workshop
+```
+npm install
 
-update
+npm start
+
+npm run build
+
+```
